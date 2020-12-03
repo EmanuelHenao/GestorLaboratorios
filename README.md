@@ -7,5 +7,7 @@ Es una pagina web que permite llevar registro del uso de los laboratorios, inven
 ![Figura 11.1](modeloERBetaAdmin.png)
 
 ##Vista
+
 ![Figura 11.1](lab1.png)
+
 ![Figura 11.1](lab2.png)
