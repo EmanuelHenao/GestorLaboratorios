@@ -9,6 +9,10 @@ Es una pagina web que permite llevar registro del uso de los laboratorios, inven
 
 ## Vista
 
+
+
 ![Figura 11.1](lab1.PNG)
+
+
 
 ![Figura 11.1](lab2.PNG)
